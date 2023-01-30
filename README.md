@@ -6,7 +6,7 @@
 # Reading Notes
 Notes for Code School
 
-## Class [1-30-23](/Reading-Notes/Class01).
+## Class [1-30-23](/Reading-Notes/Class01.md).
 
 Today we set up all our accounts for Github, Canvas, and Slack
 
