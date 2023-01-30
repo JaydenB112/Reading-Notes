@@ -39,7 +39,7 @@ There are multiple ways to do things in markdown, there's like four ways to make
 - unordered
 - ones
 - too!
- [Questions and Concerns](https://github.com/JaydenB112/Reading-Notes/blob/main/ReadME2.md)
+## [Questions and Concerns](https://github.com/JaydenB112/Reading-Notes/blob/main/ReadME2.md)
 
 
 
