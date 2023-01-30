@@ -10,7 +10,7 @@ Coding in basic seems very forgiving, you don't have to worry about the strict r
 
 You don't have to indent with paragraphs, luckily basic does it for you
 
-Remember to use spaces after hashtags for ###### headings
+Remember to use spaces after hashtags for  headings
 
 There are multiple ways to do things in basic, there's like four ways to make text **bold!**
 
