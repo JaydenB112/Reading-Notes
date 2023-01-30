@@ -21,7 +21,7 @@ There are multiple ways to do things in basic, there's like four ways to make te
 
 > > Here's a nested one for kicks.
 
->**Here's one with some seasoning.
+>**Here's one with some seasoning.**
 
 1. This
 2. Is
