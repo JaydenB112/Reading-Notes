@@ -6,13 +6,13 @@ This is how you write a paragraph, that's light work.
 Line breaks are finished.
 Today we set up all our accounts for Github, Canvas, and Slack
 
-Coding in basic seems very forgiving, you don't have to worry about the strict rules of other formats.
+Coding in markdown seems very forgiving, you don't have to worry about the strict rules of other formats.
 
-You don't have to indent with paragraphs, luckily basic does it for you
+You don't have to indent with paragraphs, luckily markdown does it for you
 
 Remember to use spaces after hashtags for  headings
 
-There are multiple ways to do things in basic, there's like four ways to make text **bold!**
+There are multiple ways to do things in markdown, there's like four ways to make text **bold!**
 
 *Italicized* text and **bold text** are really close format wise, I'd suggest adopting a different way to do both since there are multiple.
 
@@ -39,6 +39,12 @@ There are multiple ways to do things in basic, there's like four ways to make te
 - unordered
 - ones
 - too!
+## Things I want to Know more About
+If anything the history behind the format itself, why was it created?
+If markdown is as simple as this to learn, why isn't it more popular in developer communities? Is it restrictive?
+It it is then how so?
+If you just knew markdown, like that was the only language you knew, how much is that skill alone worth on the market? I know it's not a lot but still.
+
 
 
 
