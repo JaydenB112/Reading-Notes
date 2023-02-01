@@ -13,4 +13,23 @@ It's more than possible to make a website using a text editor without these opti
 
 An IDE is a little bit different from a text editor, unlike text editors IDEs have all types of different software centralized in one place.
 The problem with IDE's is that they can have a lot of stuff that you may not ever use, but at least you have it.
-## [Questions and Concerns]
+
+## Linux Command Lines
+Command Lines are a common way on how we get things done on computers
+
+Line one of a command line usually starts with a prompt, you input a command after, we get an argument (I think this is the command and terminal communicating but I'm not sure?)
+
+Line 2-5 are the output from the command, sometimes it may take a while for it to show up, it just means it's still running
+
+After the command is done running, you will be shown a prompt just like line 1
+
+## Opening A Terminal/ The Shell and Bash
+If you want to remotely log onto a terminal you will need a 3rd party application called a SSH client the article suggests one called Putty that's free.
+
+Inside a terminal you have a shell, this defines how the terminal behaves and how it looks when the terminal executes commands.
+
+Bash is a common shell that people uses and it uses a command called 'echo'
+
+Echo displays a system variable stating the current shell, it's used to siaplay message.
+
+(Shortcuts shorten the time it takes to code, take note of them and take advantage!)
