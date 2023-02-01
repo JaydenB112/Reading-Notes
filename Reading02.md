@@ -3,7 +3,7 @@
 The author describes four important features that go into a great text editor. I listed and defined them below
 1. Code Completion- Basically autofill for code, giving you multiple suggestions to fill put your code, it reduces the risk of messing up and having to trace back your steps when you're coding a lot of lines.
 2. Syntax Highlighting- essentially making your code bright colors to easily see it, it can make it easier because each command is defined by a color it's a good quality of life tool in my opinion and a good thing to look for in a text editor.
-3. Themes- a lot of ways to change the appearence of your text editor to make it more appealing, in a world as individualized as coding it's important to have just as much freedom in the appearence your text editor.
+3. Themes- a lot of ways to change the appearance of your text editor to make it more appealing, in a world as individualized as coding it's important to have just as much freedom in the appearance your text editor.
 4. Extensions- essentially the freedom to download any extra flavor you may want to your text editor, ranging from github to honeybrew, extensions make life a lot easier.
 
 Pretty much every computer already has a text editor, but one of the main reason people look for a new one is because the already installed one may or may not have all of the features previously noted.
@@ -30,7 +30,7 @@ Inside a terminal you have a shell, this defines how the terminal behaves and ho
 
 Bash is a common shell that people uses and it uses a command called 'echo'
 
-Echo displays a system variable stating the current shell, it's used to siaplay message.
+Echo displays a system variable stating the current shell, it's used to display message.
 
 (Shortcuts shorten the time it takes to code, take note of them and take advantage!)
 
@@ -40,7 +40,7 @@ In this section it just talks about getting around Linux easier, which can save 
 
 The first command featured is pwd which is **Print Working Directory** this command allows you to see your current directory
 
-The command **ls** basically shows us what's at our current location we got too by usind **pwd** 
+The command **ls** basically shows us what's at our current location we got too by using **pwd** 
 
 ## Paths 
 A Files or Directory in a command line is considered a path, (A path is getting to a specific file)
@@ -71,9 +71,9 @@ Linux bypasses the extension that Windows would normally use to dictate what fil
 Linux cares about the case of letters for example, File, fIle, fiLe, and filE are all seen as different files to Linux, not like Windows.
 
 ### Spaces in Names 
-Spacing matters a lot in Linux, when you use a space Linux sees that it has to look into seoerate directories instead of seeing one cohesive name like Super Bowl would be treated like two seperae entries, it would probably show that you didn't have a directory for bowls.
+Spacing matters a lot in Linux, when you use a space Linux sees that it has to look into separate directories instead of seeing one cohesive name like Super Bowl would be treated like two separate entries, it would probably show that you didn't have a directory for bowls.
 
-To alleviate this problem you can use quotes, so instead of Super Bowl, whch is two seperate directories, linux sees 'Super Bowl' which is a cohesive word. 
+To alleviate this problem you can use quotes, so instead of Super Bowl, which is two separate directories, linux sees 'Super Bowl' which is a cohesive word. 
 
 Escape Characters like backslashes are used as well, they nullify the special meaning of the character of the next character over.
 
