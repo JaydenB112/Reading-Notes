@@ -56,5 +56,29 @@ Relative Paths specify a location file in relation to where we are in the system
 
 cd stands for **change directory**
 
-## Quick Tip
+### Quick Tip
 Instead of risking a typo, you can use tab to autocomplete your code, just press tab when coding and it will show you what you can type, is there is multiple possibilities you can press tab again to show you all of them. 
+
+## Linus, Extensionless?
+Yes it definitely is, common extensions like exe, txt, and jpg files don't show up like that in Linux.
+
+You could name **any** file **anything** and it will still perform the intended action it was supposed too.
+
+Like if Godzilla.jpg was a jpg in windows, in Linux you could call it "Your Mom" and it would run still show a picture of Godzilla.
+
+Linux bypasses the extension that Windows would normally use to dictate what file it is, it just looks inside the file and sees what's inside.
+
+Linux cares about the case of letters for example, File, fIle, fiLe, and filE are all seen as different files to Linux, not like Windows.
+
+### Spaces in Names 
+Spacing matters a lot in Linux, when you use a space Linux sees that it has to look into seoerate directories instead of seeing one cohesive name like Super Bowl would be treated like two seperae entries, it would probably show that you didn't have a directory for bowls.
+
+To alleviate this problem you can use quotes, so instead of Super Bowl, whch is two seperate directories, linux sees 'Super Bowl' which is a cohesive word. 
+
+Escape Characters like backslashes are used as well, they nullify the special meaning of the character of the next character over.
+
+### Hidden Files and Directories
+Linux has a simple way of showing you files are hidden example below
+"..."
+In order to see these commands we can use "-a" accompanies by "ls" which we learned earlier.
+
