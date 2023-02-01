@@ -11,7 +11,7 @@ There are multiple ways to do things in markdown, there's like four ways to make
 
 Italicized text and bold text are really close format wise, I'd suggest adopting a different way to do both since there are multiple.
 
-This is both, it could get REALLY confusing! Using different methods of each could be key if you arent't well versed! (WE AREN'T!)
+This is both, it could get REALLY confusing! Using different methods of each could be key if you aren't well versed! (WE AREN'T!)
 
 This is a blockquote, why I would need it I don't know yet.
 
