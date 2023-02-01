@@ -4,7 +4,7 @@
 
 # Notes for Code School
 
-## Week 1 of class
+## Week 1 of class (102)
 
 ### [Class 1-30-23](https://github.com/JaydenB112/Reading-Notes/blob/main/Code%20102/ReadingNotes1-30-21.md).
 
