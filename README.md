@@ -2,7 +2,7 @@
 
 ## Week 1 of class
 
-### [Class 1-30-23](https://github.com/JaydenB112/Reading-Notes/blob/main/Class01.md).
+### [Class 1-30-23](https://github.com/JaydenB112/Reading-Notes/blob/main/Code%20102/ReadingNotes1-30-21.md).
 
 Today we set up all our accounts for Github, Canvas, and Slack
 
