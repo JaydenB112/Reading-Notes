@@ -1,3 +1,7 @@
+**My Name Is Jayden Boyd, I have very little experience with coding, my goal is to be a great software engineer, and here I document my journey.**
+
+
+
 # Notes for Code School
 
 ## Week 1 of class
