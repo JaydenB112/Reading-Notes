@@ -13,3 +13,4 @@ It's more than possible to make a website using a text editor without these opti
 
 An IDE is a little bit different from a text editor, unlike text editors IDEs have all types of different software centralized in one place.
 The problem with IDE's is that they can have a lot of stuff that you may not ever use, but at least you have it.
+## [Questions and Concerns]
