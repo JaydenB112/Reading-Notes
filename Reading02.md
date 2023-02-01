@@ -33,3 +33,28 @@ Bash is a common shell that people uses and it uses a command called 'echo'
 Echo displays a system variable stating the current shell, it's used to siaplay message.
 
 (Shortcuts shorten the time it takes to code, take note of them and take advantage!)
+
+## Navigating Linux
+
+In this section it just talks about getting around Linux easier, which can save a **LOT** of time in the long run.
+
+The first command featured is pwd which is **Print Working Directory** this command allows you to see your current directory
+
+The command **ls** basically shows us what's at our current location we got too by usind **pwd** 
+
+## Paths 
+A Files or Directory in a command line is considered a path, (A path is getting to a specific file)
+
+### Absolute and Relative Paths
+Absolute and Relative paths are used whenever we are getting a specific file or directory.
+
+Linux file systems are like a pyramid in design, at the top of it lies the **root** directory it's usually indicated by one slash, and it has subdirectories, and those subdirectories have subdirectories and it trickles down.
+
+Absolute paths show a location file in relation to the root directory it will usually have a forward slash.
+
+Relative Paths specify a location file in relation to where we are in the system. They won't have a slash.
+
+cd stands for **change directory**
+
+## Quick Tip
+Instead of risking a typo, you can use tab to autocomplete your code, just press tab when coding and it will show you what you can type, is there is multiple possibilities you can press tab again to show you all of them. 
