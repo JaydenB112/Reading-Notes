@@ -10,3 +10,5 @@ Today we set up all our accounts for Github, Canvas, and Slack
 Today we configured our Ubuntu, a terminal for all of the resources we use in class, we also took notes on a reading we did in class.
 
 ### Class 2-1-23
+Today we cleaned up our notes and corrected our formatting, we are making the transition to VScode and today was dedicated to the preparation to do so.
+
