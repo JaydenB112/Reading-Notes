@@ -2,7 +2,7 @@
 
 
 
-# Notes for Code School
+# Notes for Code School jay
 
 ## [Course 102 Notes (1-30-23/2-3-23)](https://github.com/JaydenB112/Reading-Notes/tree/main/Code102)
 
