@@ -15,8 +15,8 @@ Today we cleaned up our notes and corrected our formatting, we are making the tr
 
 ### [Class 2-3-23](https://github.com/JaydenB112/Reading-Notes/blob/main/Code102/Reading2-3-23.md)
 
-### [Class TBD Reading Note 6]
+### [Class TBD Reading Note 6](https://github.com/JaydenB112/Reading-Notes/blob/main/Code102/ReadingNote6.md)
 
-### [Class TBD Reading Note 7]
+### [Class TBD Reading Note 7](https://github.com/JaydenB112/Reading-Notes/blob/main/Code102/ReadingNote7.md)
 
-### [Class TBD Reading Note Eight]
+### [Class TBD Reading Note Eight](https://github.com/JaydenB112/Reading-Notes/blob/main/Code102/ReadingNote8.md)
