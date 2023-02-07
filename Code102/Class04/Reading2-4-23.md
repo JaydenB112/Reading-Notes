@@ -35,4 +35,9 @@ HTML usually consists of opening and closing tags.
 
 <title></title>- This sets the title of your page and it's the name that shows up when you look for the page. It also describes the page if someone bookmarks it
 
-<body></body>- this contains 
+<body></body>- this contains all the text you want people to see on your webpage when you load it up.
+
+## Semantics 
+**<h1> ** is an example of semantics, it gives the text it encloses a specific role as the top level heading on your page.
+
+There are over 100 semantic elements in HTML, they all give the text they enclose a specific role to make you page.
