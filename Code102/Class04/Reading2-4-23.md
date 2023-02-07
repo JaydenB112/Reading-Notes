@@ -21,23 +21,23 @@ HTML is a **markup language** that builds out the structure of your website. You
 HTML usually consists of opening and closing tags.
 
 ### ***Like This***
-<< <p>My cat is very grumpy</p>
+<< < p> My cat is very grumpy</p>
 
-<p> is the opening and closing tag that indicates what function the statement serves.
+< p> is the opening and closing tag that indicates what function the statement serves.
 
-<html>- this wraps all the content on the page and is known as the root element, setting the primary language of the document 
+< html>- this wraps all the content on the page and is known as the root element, setting the primary language of the document 
 
-<head>- This is the bucket or container for all the things you want to include on HTML that the viewers of your page can't see. Like keywords and a page description to help people find your page.
+< head>- This is the bucket or container for all the things you want to include on HTML that the viewers of your page can't see. Like keywords and a page description to help people find your page.
 
-<meta charset="utf-8">- This sets the character set, you should use UTF-8 which includes most characters from the vast majority of written languages. Now it can take care of any textual content you put in it.
+< meta charset="utf-8">- This sets the character set, you should use UTF-8 which includes most characters from the vast majority of written languages. Now it can take care of any textual content you put in it.
 
-<meta name="viewport" content="width=device-width">- this **viewport element** makes the page render at the width of the viewport, preventing mobile browsers from rendering the website for a computer screen and vice versa.
+< meta name="viewport" content="width=device-width">- this **viewport element** makes the page render at the width of the viewport, preventing mobile browsers from rendering the website for a computer screen and vice versa.
 
-<title></title>- This sets the title of your page and it's the name that shows up when you look for the page. It also describes the page if someone bookmarks it
+< title></ title>- This sets the title of your page and it's the name that shows up when you look for the page. It also describes the page if someone bookmarks it
 
-<body></body>- this contains all the text you want people to see on your webpage when you load it up.
+< body></ body>- this contains all the text you want people to see on your webpage when you load it up.
 
 ## Semantics 
-**<h1> ** is an example of semantics, it gives the text it encloses a specific role as the top level heading on your page.
+ **< h1 >** is an example of semantics, it gives the text it encloses a specific role as the top level heading on your page.
 
 There are over 100 semantic elements in HTML, they all give the text they enclose a specific role to make you page.
