@@ -17,8 +17,8 @@ Today we made basic schematics for a website we are building. Called a wireframe
 ### [Class 2-8-23](https://github.com/JaydenB112/Reading-Notes/blob/main/Code102/Class05/2-7-23ReadingNotes.md)
 Today we went over styling with CSS, reading about syntax, semantics, and how CSS is grouped.
 
-### [Class TBD Reading Note 6](https://github.com/JaydenB112/Reading-Notes/blob/main/Code102/ReadingNote6.md)
+### [Class 2-9-23](https://github.com/JaydenB112/Reading-Notes/blob/main/Code102/Class06/Class06-2-8-23.md)
 
-### [Class TBD Reading Note 7](https://github.com/JaydenB112/Reading-Notes/blob/main/Code102/ReadingNote7.md)
+### [Class 2-10-23](https://github.com/JaydenB112/Reading-Notes/blob/main/Code102/Class07/ReadingNote7.md)
 
-### [Class TBD Reading Note Eight](https://github.com/JaydenB112/Reading-Notes/blob/main/Code102/ReadingNote8.md)
+### [Class 2-13-23](https://github.com/JaydenB112/Reading-Notes/blob/main/Code102/Class08/ReadingNote8.md)
