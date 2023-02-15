@@ -11,9 +11,11 @@ Today we configured our Ubuntu, a terminal for all of the resources we use in cl
 ### [Class 2-1-23](https://github.com/JaydenB112/Reading-Notes/blob/main/Code102/Class03/Reading%202-1-23.md)
 Today we cleaned up our notes and corrected our formatting, we are making the transition to VScode and today was dedicated to the preparation to do so.
 
-### [Class 2-2-23](https://github.com/JaydenB112/Reading-Notes/blob/main/Code102/Reading2-2-23.md)
+### [Class 2-2-23](https://github.com/JaydenB112/Reading-Notes/blob/main/Code102/Class04/Reading2-4-23.md) 
+Today we made basic schematics for a website we are building. Called a wireframe. We also went over basic HTML and got started building the website's framework.
 
-### [Class 2-3-23](https://github.com/JaydenB112/Reading-Notes/blob/main/Code102/Reading2-3-23.md)
+### [Class 2-8-23](https://github.com/JaydenB112/Reading-Notes/blob/main/Code102/Class05/2-7-23ReadingNotes.md)
+Today we went over styling with CSS, reading about syntax, semantics, and how CSS is grouped.
 
 ### [Class TBD Reading Note 6](https://github.com/JaydenB112/Reading-Notes/blob/main/Code102/ReadingNote6.md)
 
