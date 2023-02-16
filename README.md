@@ -2,10 +2,14 @@
 
 
 
-# Notes for Code School 
+# Reading Notes
 
-## [Course 102 Notes (1-30-23/2-15-23)](https://github.com/JaydenB112/Reading-Notes/tree/main/Code102)
+## [Course 102- Intro to Software Development(1-30-23/2-15-23)](https://github.com/JaydenB112/Reading-Notes/tree/main/Code102)
 
 
-## [Course 201 Notes (TBD)](https://github.com/JaydenB112/Reading-Notes/tree/main/Code201)
+## [Course 201-Foundations of Software Development (2-16-23)](https://github.com/JaydenB112/Reading-Notes/tree/main/Code201)
+
+## [Code 301-Intermediate Software Development]
+
+## [Code 401-Advanced Software Development]
 
