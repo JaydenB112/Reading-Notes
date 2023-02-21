@@ -10,6 +10,7 @@
    There are six levels of heading in HTML that go from biggest to smallest.
 
 3. What are some uses for the < sup > and < sub > elements?
+
    Indicating dates, like the th on the back of 25th, formatting mathematical formulas, and even chemical names.
 
 4. When using the < abbr > element, what attribute must be added to provide the full expansion of the term.
