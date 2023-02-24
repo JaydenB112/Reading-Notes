@@ -21,7 +21,7 @@
 ## Learn CSS
 1. What are some ways you can add CSS to HTML?
 
-    You can add CSS to HTML by using a < link > tag or you can do some limited styling inline by using the < style > tag.
+    You can add CSS to HTML by using a < link > tag or you can do some limited styling inline by using the < style > tag.   b     
 
 2. Why should we avoid using inline styles?
 
@@ -53,7 +53,7 @@ The color and size part of the CSS code.
 
 2. List 4 types of Javascript Operators.
 
-+,-,/,* They represent their respective mathematical use.
++, -, /, * They represent their respective mathematical use.
 
 3. Describe a real problem that could be fixed with a function.
 
