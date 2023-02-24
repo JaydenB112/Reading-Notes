@@ -47,6 +47,7 @@ Assignment, Division Assignment, Remainder Assignment, Left Shift Assignment, Ad
  A sign in sheet.
 
  6. Give an example of when a loop is useful in Javascript.
+ 
  A quiz that has a certain number of attempts.
 
 
