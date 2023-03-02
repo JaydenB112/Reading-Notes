@@ -17,3 +17,15 @@
 5. Evaluate the code below. What does the term this refer to and what is the advantage to using this?
    
     This refers to a variable you set in the object, it's benefit is quickly being able to refer and call on variables within the object without having to use the objects name.
+
+    ## The DOM
+    1. What is the DOM?
+       
+        Document Object Model or "DOM" is how the data is a representation of how the webpage looks, it allows for the 
+        webpage to be manipulated in a more direct way.
+   
+   
+   2.  Briefly describe the relationship between the DOM and JavaScript.
+        
+        They work hand in hand, the DOM is not a programming language, but Javascript needs it to understand the model of a webpage.
+    
