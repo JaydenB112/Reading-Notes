@@ -11,7 +11,7 @@ They are portable, reusable, non context specific, meaning able to operate in di
 
 They are easily deployable, and flexible in the situations that they are being deployed in. Also being able to use a consistent piece of code is invaluable in any capacity of development.
 
-## What is Props and how is it used it in React?
+## What is Props and how is it used  in React?
 1. What is props short for?
 
 Properties
