@@ -26,10 +26,10 @@
 
 State is internal and props is external.
 
-3.When do we re-render our application?
+3. When do we re-render our application?
 
 By changing the state you can re render the app.
 
-4.What are some examples of things that we could store in state?
+4. What are some examples of things that we could store in state?
 
 You could use numbers, strings, and objects.
