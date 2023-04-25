@@ -9,7 +9,7 @@
 
 ## [Course 201-Foundations of Software Development (2-16-23)](https://github.com/JaydenB112/Reading-Notes/tree/main/Code201)
 
-## [Code 301-Intermediate Software Development]
+## [Code 301-Intermediate Software Development](https://github.com/JaydenB112/Reading-Notes/tree/main/Code301)
 
 ## [Code 401-Advanced Software Development]
 
