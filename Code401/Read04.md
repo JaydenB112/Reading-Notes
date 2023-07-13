@@ -72,3 +72,11 @@ public int AddFive(int pValue)
     result = pValue + 5;
     return result;
 }
+
+
+## Questions
+- A class can have only one static constructor, and it cannot be directly invoked or called from code.
+
+-Setting Properties/Values: Setting properties/values can occur at any time during the lifetime of an object. It can be done during object creation (in the constructor) or at a later point by directly assigning values to properties.
+
+-Reuse objects when possible instead of creating new instances. Creating new objects incurs memory allocation and garbage collection overhead. Consider implementing object pooling or recycling mechanisms to reuse objects, especially for frequently used or resource-intensive objects
